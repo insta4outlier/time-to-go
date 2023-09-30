@@ -22,6 +22,11 @@ func main() {
 	fmt.Println(x)
 	fmt.Println(stringInput)
 
+	var defaultNumber int
+	var defaultString string
+	fmt.Println(defaultNumber)
+	fmt.Println(defaultString)
+
 	// implicit initialization of variable
 	a := 10
 	b := 20
