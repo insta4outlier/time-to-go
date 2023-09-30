@@ -52,7 +52,7 @@ func main() {
 	const discount int = 10
 	const price = 10
 	const (
-		tomato    = "tomato" // const variable can be not used
+		tomato    = "tomato" // const variable can not be used
 		green     = "green"
 		newGgreen // if no value is assigned, previous value("green") is assigned
 	)
